@@ -5,7 +5,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=950&height=110&lines=console.log(%22Hello+World!%22);Building+Modern+Web+Applications;AI+%7C+Automation+%7C+Cloud;Learning+Never+Stops..." />
 
-<img src="https://komarev.com/ghpvc/?username=kingofallsnakes&label=VISITORS&style=for-the-badge&color=blueviolet"/>
+
+
+
 
 </div>
 
@@ -68,36 +70,19 @@ Status: Building Real World Projects...
 
 ---
 
-# 🚀 FEATURED MISSIONS
-
-| Project | Stack | Status |
-|---------|------|--------|
-| 🍫 Brownie Bite | React • UI/UX | ✅ Active |
-| 🤖 Bujji AI | React • Gemini | ✅ Active |
-| 🎨 Cobra Cartoonizer | Python • OpenCV | ✅ Active |
-| ⚡ EV Charging Locator | Maps • Web | 🚧 Improving |
-
----
-
 # 📡 LIVE TELEMETRY
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kingofallsnakes&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=kingofallsnakes&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingofallsnakes&layout=compact&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingofallsnakes&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kingofallsnakes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=kingofallsnakes&theme=tokyonight&hide_border=true" />
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingofallsnakes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingofallsnakes&theme=tokyonight&utcOffset=0" />
 
-# 📈 ACTIVITY MATRIX
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kingofallsnakes&theme=tokyo-night&hide_border=true" />
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kingofallsnakes&theme=tokyo-night)
-
----
-
-# 🏆 ACHIEVEMENTS
-
-![](https://github-profile-trophy.vercel.app/?username=kingofallsnakes&theme=algolia&margin-w=10&no-frame=true)
+</div>
 
 ---
 
@@ -107,24 +92,15 @@ Status: Building Real World Projects...
 
 ---
 
-# 🧬 CONTRIBUTION SNAKE
-
-```text
-Enable the GitHub Action below to activate the snake animation:
-Platane/snk
-Output:
-output/github-contribution-grid-snake-dark.svg
-```
-
-```md
-![Snake](https://raw.githubusercontent.com/kingofallsnakes/kingofallsnakes/output/github-contribution-grid-snake-dark.svg)
-```
+<img width="880" height="192" alt="Image" src="https://github.com/user-attachments/assets/40bdaf8b-3dd5-44a2-9fe2-0a8ad2ccdaf6" />
 
 ---
 
-# 💭 RANDOM DEV QUOTE
+# 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
